@@ -6,7 +6,7 @@ python 2.7.x
 ---
 
 ###Penggunaan untuk enkripsi
-> $ python steganoAES.py -e <namafile>
+> $ python steganoAES.py -e \<namafile\>
 
 contoh 
 > $ python steganoAES.py -e pic.png
